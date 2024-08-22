@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Cloud and Devops enthusiast from India</h3>
 
 # 💫About Me :
-- 🔭 I’m currently working on a project:**Two-tier flask aplication deployment on kubernetes and later on AWS EKS**
+- 🔭 I’m currently working on my final-year  project
 
-- 🌱 I’m currently learning **AWS,Docker,Kunernetes,Jenkins,Python for Devops,Shell Scripting**
+- 🌱 I’m currently learning **AWS, Docker, Kubernetes, Jenkins, Python for Devops, Shell Scripting, Terraform, ArgoCD**
 
-- 👯 I’m looking to collaborate on **Cloud and Devops native projects**
+- 👯 I’m looking to collaborate on **Cloud and DevOps native projects**
 
-- 💬 Ask me about **Cloud and Devops**
+- 💬 Ask me about **Cloud and DevOps**
 
 
 # 💻Tech Stack
