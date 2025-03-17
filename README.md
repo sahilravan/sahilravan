@@ -24,6 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=RavanSahil21&icon=0&color=0)](https://visitcount.itsvg.in)
 
  # 📫 How to reach me -
-- Connet me on <a href="https://linkedin.com/in/sahil ravan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil ravan" height="30" width="40" /></a>
+- Connet me on <a href="https://www.linkedin.com/in/sahil-ravan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil ravan" height="30" width="40" /></a>
 - Shoot me an Email: **ravansahil8@gmail.com**
 - Follow me on <a href="https://instagram.com/sahil.ravan.1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil.ravan.1004" height="30" width="40" /></a>
